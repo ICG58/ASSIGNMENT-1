@@ -8,15 +8,16 @@ Following is the program that calculate and display employee’s weekly salary
 
 Start
 
-1.       Prompt for  HoursWorked
+1.       PROMPT for  HoursWorked
 
-2.       Get HoursWorked
+2.       GET HoursWorked
 
-3.       Normal HoursWorked = HoursWorked – Overtime HoursWorked
+3.       #Normal HoursWorked = HoursWorked – Overtime HoursWorked
 
-4.       Get normal HoursWorked
+4.       GET normal HoursWorked
 
-5.       If HoursWorked = 45 per day, then weekly salary =  normal HoursWorked × normal HoursWorked amount
+5.       IF HoursWorked = 45 per day 
+6.       THEN weekly salary =  normal HoursWorked × normal HoursWorked amount
 
 6.       Get the weekly salary
 
